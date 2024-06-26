@@ -22,7 +22,7 @@ The pictures come from [here](https://kdscoder.com/welcome/video_source_code/K_e
 
 ## Demo
 
-This project does not contain a demo; butyou can find it on the address listed [here](https://l-xdt.github.io/xirox/)
+This project does not contain a demo; but you can find it on the address listed [here](https://l-xdt.github.io/xirox/)
 
 ## Features
 
